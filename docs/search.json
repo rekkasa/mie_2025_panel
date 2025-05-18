@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "section": "",
+    "text": "They are increasingly used for the medical research and policy-making\nPartly powered by the advances in interoperability\nOHDSI: one of the main drivers for interoperability"
+  },
+  {
+    "objectID": "index.html#healthcare-observational-databases",
+    "href": "index.html#healthcare-observational-databases",
+    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "section": "",
+    "text": "They are increasingly used for the medical research and policy-making\nPartly powered by the advances in interoperability\nOHDSI: one of the main drivers for interoperability"
+  },
+  {
+    "objectID": "index.html#papgeorgiou-general-hospital",
+    "href": "index.html#papgeorgiou-general-hospital",
+    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "section": "Papgeorgiou General Hospital",
+    "text": "Papgeorgiou General Hospital\n\nLarge hospital in the northern part of Greece\nData on more than 1.4 million patients over the past 15 years\nMapped to OMOP-CDM\nOur main contributions are:\n\nMapping and updating the hospital’s database to conform with OMOP-CDM\nBuilding and executing software for analyzing this data\nAssisting interested parts in the development and execution of study protocols"
+  },
+  {
+    "objectID": "index.html#ehden-mega-study",
+    "href": "index.html#ehden-mega-study",
+    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "section": "EHDEN Mega-Study",
+    "text": "EHDEN Mega-Study\n\nStudy aimed at leveraging data from all over Europe and N. America\n\n52 databases in total\n18 countries\n\nAim: Evluate drug incidence and prevalence of drugs with suggested shortages from 2010 to 2024\nNew way of analyzing real-world healthcare data\nWe are working towards keeping up with that trend\nNo other database from Greece other than PGH participated"
+  },
+  {
+    "objectID": "index.html#darwin-eu",
+    "href": "index.html#darwin-eu",
+    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "section": "DARWIN EU",
+    "text": "DARWIN EU\n\nProject funded by the EMA\nBuilds on top of EHDEN\nSupports EMA on:\n\nEvaluation of safety and efficacy of medicines\nEvaluation of drug use and drug shortages\n\nPGH has joined the list of the DARWIN EU approved healthcare databases\nAlready received the first order for the execution of a study\n\n\nNotes\n\nExplain how payments are made?"
+  },
+  {
+    "objectID": "index.html#ohdsi-evidence-network",
+    "href": "index.html#ohdsi-evidence-network",
+    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "section": "OHDSI Evidence Network",
+    "text": "OHDSI Evidence Network\n\nAim: Create an easily accessible pool of the databases mapped to OMOP-CDM\nFacilitate contact between parts who want to execute a study and data sources\nDo this in a timely manner\nOMOP-CDM facilitates that with\n\nPre-executed diagnostics studies with descriptive statistics for each data source\nExtensive toolset for out-of-the-box analyses"
+  },
+  {
+    "objectID": "index.html#studies-in-collaboration-with-hospital-doctors",
+    "href": "index.html#studies-in-collaboration-with-hospital-doctors",
+    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "section": "Studies in collaboration with hospital doctors",
+    "text": "Studies in collaboration with hospital doctors"
+  },
+  {
+    "objectID": "index.html#pharamceutical-industry",
+    "href": "index.html#pharamceutical-industry",
+    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "section": "Pharamceutical industry",
+    "text": "Pharamceutical industry\n\nCollaboration with pharmaceutical industry to explore rare diseases"
+  }
+]

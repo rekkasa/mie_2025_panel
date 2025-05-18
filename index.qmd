@@ -1,0 +1,58 @@
+---
+title: "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs"
+---
+
+## Healthcare observational databases
+
+- They are increasingly used for the medical research and policy-making
+- Partly powered by the advances in interoperability
+- OHDSI: one of the main drivers for interoperability
+
+## Papgeorgiou General Hospital
+
+- Large hospital in the northern part of Greece
+- Data on more than 1.4 million patients over the past 15 years
+- Mapped to OMOP-CDM
+- Our main contributions are:
+  - Mapping and updating the hospital's database to conform with OMOP-CDM
+  - Building and executing software for analyzing this data
+  - Assisting interested parts in the development and execution of study protocols
+
+## EHDEN Mega-Study
+
+- Study aimed at leveraging data from all over Europe and N. America
+  - 52 databases in total
+  - 18 countries
+- Aim: Evluate drug incidence and prevalence of drugs with suggested shortages from 2010 to 2024
+- New way of analyzing real-world healthcare data
+- We are working towards keeping up with that trend
+- No other database from Greece other than PGH participated
+
+## DARWIN EU
+
+- Project funded by the EMA
+- Builds on top of EHDEN
+- Supports EMA on:
+  - Evaluation of safety and efficacy of medicines
+  - Evaluation of drug use and drug shortages
+- PGH has joined the list of the DARWIN EU approved healthcare databases
+- Already received the first order for the execution of a study
+
+> **Notes**
+>
+> 1. Explain how payments are made?
+
+## OHDSI Evidence Network
+
+- Aim: Create an easily accessible pool of the databases mapped to OMOP-CDM
+- Facilitate contact between parts who want to execute a study and data sources
+- Do this in a timely manner
+- OMOP-CDM facilitates that with
+  - Pre-executed diagnostics studies with descriptive statistics for each data source
+  - Extensive toolset for out-of-the-box analyses
+
+## Studies in collaboration with hospital doctors
+
+## Pharamceutical industry
+
+- Collaboration with pharmaceutical industry to explore rare diseases
