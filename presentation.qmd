@@ -1,5 +1,6 @@
 ---
-title: "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs"
+title: "EDIHs as a tool to transfer know-how"
+subtitle: Real-world lessons learned
 format:
   revealjs:
     width: 1920
@@ -49,7 +50,7 @@ Our main contributions are:
 
 > **Aim**
 >
-> Evluate incidence and prevalence of drugs with suggested shortages from 2010 to 2024
+> Evaluate incidence and prevalence of drugs with suggested shortages from 2010 to 2024
 
 ## EHDEN Mega-Study
 
@@ -99,10 +100,10 @@ Our main contributions are:
 \
 
 - Facilitate contact between parties executing a study and data sources
-- Pre-executed diagnostics studies for each data source
+- Pre-executed diagnostics for each data source
 - Extensive set of tools for out-of-the-box analyses
 
-## Studies in collaboration with hospital doctors
+## Collaboration with hospital doctors
 
 \
 \
@@ -112,7 +113,7 @@ Our main contributions are:
 > To involve the hospital doctors in the analysis of their own data to answer relevant questions driven by their
 > everyday work
 
-## Studies in collaboration with hospital doctors
+## Collaboration with hospital doctors
 
 \
 \
@@ -123,7 +124,7 @@ Currently exploring the development and execution of study protocols:
   - Study of pre-eclampsia patients
   - Study of stroke patients
 
-## Pharamceutical industry
+## Pharmaceutical industry
 
 \
 \

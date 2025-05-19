@@ -2,63 +2,63 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "title": "EDIHs as a tool to transfer know-how: real-world lessons learned",
     "section": "",
     "text": "They are increasingly used for medical research and policy-making\nPartly powered by the advances in interoperability\nOHDSI: one of the main drivers for interoperability"
   },
   {
     "objectID": "index.html#healthcare-observational-databases",
     "href": "index.html#healthcare-observational-databases",
-    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "title": "EDIHs as a tool to transfer know-how: real-world lessons learned",
     "section": "",
     "text": "They are increasingly used for medical research and policy-making\nPartly powered by the advances in interoperability\nOHDSI: one of the main drivers for interoperability"
   },
   {
     "objectID": "index.html#papgeorgiou-general-hospital",
     "href": "index.html#papgeorgiou-general-hospital",
-    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "title": "EDIHs as a tool to transfer know-how: real-world lessons learned",
     "section": "Papgeorgiou General Hospital",
     "text": "Papgeorgiou General Hospital\n\nLarge hospital in the northern part of Greece\nData on more than 1.4 million patients over the past 15 years\nMapped to OMOP-CDM\n\nNot an one-time process\nMedical, statistical and software development expertise required for the analysis of the data\n\nOur main contributions are:\n\nMapping and updating the hospital’s database to conform with OMOP-CDM\nBuilding and executing software for analyzing this data\nAssisting interested parts in the development and execution of study protocols"
   },
   {
     "objectID": "index.html#ehden-mega-study",
     "href": "index.html#ehden-mega-study",
-    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "title": "EDIHs as a tool to transfer know-how: real-world lessons learned",
     "section": "EHDEN Mega-Study",
     "text": "EHDEN Mega-Study\n\nStudy was one of the final steps of a large IMI project that aimed and succeeded at mapping a large number of databases including hundreds of millions of patients to OMOP-CDM\nStudy leveraged data from all over Europe and N. America\n\n52 databases in total\n18 countries\n\nAim: Evluate incidence and prevalence of drugs with suggested shortages from 2010 to 2024\nNew way of analyzing real-world healthcare data\nWe are working towards keeping up with that trend\nNo other database from Greece other than PGH participated"
   },
   {
     "objectID": "index.html#darwin-eu",
     "href": "index.html#darwin-eu",
-    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "title": "EDIHs as a tool to transfer know-how: real-world lessons learned",
     "section": "DARWIN EU",
     "text": "DARWIN EU\n\nProject funded by the EMA\nBuilds on top of EHDEN\nSupports EMA on:\n\nEvaluation of safety and efficacy of medicines\nEvaluation of drug use and drug shortages\n\nPGH has joined the list of the DARWIN EU approved healthcare databases\nAlready received the first order for the execution of a study"
   },
   {
     "objectID": "index.html#ohdsi-evidence-network",
     "href": "index.html#ohdsi-evidence-network",
-    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "title": "EDIHs as a tool to transfer know-how: real-world lessons learned",
     "section": "OHDSI Evidence Network",
     "text": "OHDSI Evidence Network\n\nAim: Create an easily accessible pool of the databases mapped to OMOP-CDM\nFacilitate contact between parties who want to execute a study and data sources\nDo this in a timely manner\nOMOP-CDM facilitates that with\n\nPre-executed diagnostics studies with descriptive statistics for each data source\nExtensive set of tools for out-of-the-box analyses"
   },
   {
     "objectID": "index.html#studies-in-collaboration-with-hospital-doctors",
     "href": "index.html#studies-in-collaboration-with-hospital-doctors",
-    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "title": "EDIHs as a tool to transfer know-how: real-world lessons learned",
     "section": "Studies in collaboration with hospital doctors",
     "text": "Studies in collaboration with hospital doctors\n\nAim: To involve the hospital doctors in the analysis of their own data to answer relevant questions driven by their everyday work\nCharacterization of rhabdomyolysis patients\n\nPresented here\nMore of a proof of concept / exploration of collaboration with hospital doctors\n\nWe are currently exploring the development and execution of several other study protocols\n\nStudy of pre-eclampsia patients\nStudy of stroke patients"
   },
   {
     "objectID": "index.html#pharamceutical-industry",
     "href": "index.html#pharamceutical-industry",
-    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "title": "EDIHs as a tool to transfer know-how: real-world lessons learned",
     "section": "Pharamceutical industry",
     "text": "Pharamceutical industry\n\nCollaboration with pharmaceutical industry to explore rare diseases\nVery promising\n\nDoctors were involved from the beginning\nCarefully planned protocol developed with the appropriate expertise\n\nPilot study – Hasn’t happened before in Greece"
   },
   {
     "objectID": "index.html#challenges",
     "href": "index.html#challenges",
-    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "title": "EDIHs as a tool to transfer know-how: real-world lessons learned",
     "section": "Challenges",
     "text": "Challenges\n\nData collection is fragmented\nDigitization in many cases is still in very early stages\nNational regulatory authorities do not prioritize analysis of healthcare observational data\nDisconnect from medical practitioners\n\nCompare to NL –&gt; located inside a hospital with direct access to practitioners/divisions\nResearch center outside the hospital –&gt; Need a lot of effort to communicate to the doctors even the wealth and potential of their own data.\nNot a priority to the majority of clinical practitioners who have to deal with more pressing matters of delivering clinical care in a very challenging setting\n\nPharmaceutical industry less interested in R&D in Greece using observational data"
   },
@@ -72,7 +72,7 @@
   {
     "objectID": "presentation.html#healthcare-observational-databases",
     "href": "presentation.html#healthcare-observational-databases",
-    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "title": "EDIHs as a tool to transfer know-how",
     "section": "Healthcare observational databases",
     "text": "Healthcare observational databases\n\n\n\n\nIncreasingly used for medical research and policy-making\nPartly powered by the advances in interoperability\nOHDSI: one of the main drivers for interoperability"
   },
@@ -93,70 +93,70 @@
   {
     "objectID": "presentation.html#ehden-mega-study",
     "href": "presentation.html#ehden-mega-study",
-    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "title": "EDIHs as a tool to transfer know-how",
     "section": "EHDEN Mega-Study",
-    "text": "EHDEN Mega-Study\n\n\n\n\nAim\nEvluate incidence and prevalence of drugs with suggested shortages from 2010 to 2024"
+    "text": "EHDEN Mega-Study\n\n\n\n\nAim\nEvaluate incidence and prevalence of drugs with suggested shortages from 2010 to 2024"
   },
   {
     "objectID": "presentation.html#ehden-mega-study-1",
     "href": "presentation.html#ehden-mega-study-1",
-    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "title": "EDIHs as a tool to transfer know-how",
     "section": "EHDEN Mega-Study",
     "text": "EHDEN Mega-Study\n\n\n\n\nNew way of analyzing real-world healthcare data\nStudy leveraged data from all over Europe and N. America\n\n52 databases in total\n18 countries\n\nNo other database from Greece other than PGH participated"
   },
   {
     "objectID": "presentation.html#darwin-eu",
     "href": "presentation.html#darwin-eu",
-    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "title": "EDIHs as a tool to transfer know-how",
     "section": "DARWIN EU",
     "text": "DARWIN EU\n\n\n\n\nAim\nSupport EMA on the:\n\nEvaluation of safety and efficacy of medicines\nEvaluation of drug use and drug shortages"
   },
   {
     "objectID": "presentation.html#darwin-eu-1",
     "href": "presentation.html#darwin-eu-1",
-    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "title": "EDIHs as a tool to transfer know-how",
     "section": "DARWIN EU",
     "text": "DARWIN EU\n\n\n\n\nProject funded by the EMA\nBuilds on top of EHDEN\nPGH has joined the list of the DARWIN EU approved healthcare databases\nAlready received the first order for the execution of a study"
   },
   {
     "objectID": "presentation.html#ohdsi-evidence-network",
     "href": "presentation.html#ohdsi-evidence-network",
-    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "title": "EDIHs as a tool to transfer know-how",
     "section": "OHDSI Evidence Network",
     "text": "OHDSI Evidence Network\n\n\n\n\nAim\nCreate an easily accessible pool of the databases mapped to OMOP-CDM"
   },
   {
     "objectID": "presentation.html#ohdsi-evidence-network-1",
     "href": "presentation.html#ohdsi-evidence-network-1",
-    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "title": "EDIHs as a tool to transfer know-how",
     "section": "OHDSI Evidence Network",
-    "text": "OHDSI Evidence Network\n\n\n\n\nFacilitate contact between parties executing a study and data sources\nPre-executed diagnostics studies for each data source\nExtensive set of tools for out-of-the-box analyses"
+    "text": "OHDSI Evidence Network\n\n\n\n\nFacilitate contact between parties executing a study and data sources\nPre-executed diagnostics for each data source\nExtensive set of tools for out-of-the-box analyses"
   },
   {
     "objectID": "presentation.html#studies-in-collaboration-with-hospital-doctors",
     "href": "presentation.html#studies-in-collaboration-with-hospital-doctors",
-    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "title": "EDIHs as a tool to transfer know-how: real-world lessons learned",
     "section": "Studies in collaboration with hospital doctors",
     "text": "Studies in collaboration with hospital doctors\n\n\n\n\nAim\nTo involve the hospital doctors in the analysis of their own data to answer relevant questions driven by their everyday work"
   },
   {
     "objectID": "presentation.html#studies-in-collaboration-with-hospital-doctors-1",
     "href": "presentation.html#studies-in-collaboration-with-hospital-doctors-1",
-    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "title": "EDIHs as a tool to transfer know-how: real-world lessons learned",
     "section": "Studies in collaboration with hospital doctors",
     "text": "Studies in collaboration with hospital doctors\n\n\n\nCurrently exploring the development and execution of study protocols:\n\nStudy of rhabdomyolysis patients\nStudy of pre-eclampsia patients\nStudy of stroke patients"
   },
   {
     "objectID": "presentation.html#pharamceutical-industry",
     "href": "presentation.html#pharamceutical-industry",
-    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "title": "EDIHs as a tool to transfer know-how: real-world lessons learned",
     "section": "Pharamceutical industry",
     "text": "Pharamceutical industry\n\n\n\n\nCollaboration with pharmaceutical industry to explore rare diseases\nDoctors were involved from the beginning\nCarefully planned protocol developed with the appropriate expertise\nPilot study"
   },
   {
     "objectID": "presentation.html#challenges",
     "href": "presentation.html#challenges",
-    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "title": "EDIHs as a tool to transfer know-how",
     "section": "Challenges",
     "text": "Challenges\n\n\n\n\nData collection is fragmented\nDigitization in many cases is still in very early stages\nNational regulatory authorities do not prioritize analysis of healthcare observational data\nDisconnect from medical practitioners\nPharmaceutical industry less interested in R&D in Greece using observational data"
   },
@@ -170,15 +170,36 @@
   {
     "objectID": "presentation.html#papageorgiou-general-hospital",
     "href": "presentation.html#papageorgiou-general-hospital",
-    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "title": "EDIHs as a tool to transfer know-how",
     "section": "Papageorgiou General Hospital",
     "text": "Papageorgiou General Hospital\n\n\n\n\nLarge hospital in the northern part of Greece\nData on more than 1.4 million patients over the past 15 years\nMapped to OMOP-CDM"
   },
   {
     "objectID": "presentation.html#papageorgiou-general-hospital-1",
     "href": "presentation.html#papageorgiou-general-hospital-1",
-    "title": "Connecting research to enterpreneurship: The power of European Digital Innovation Hubs",
+    "title": "EDIHs as a tool to transfer know-how",
     "section": "Papageorgiou General Hospital",
     "text": "Papageorgiou General Hospital\n\n\n\nOur main contributions are:\n\nMapping and updating the EHR to conform with OMOP-CDM\nBuilding and executing software for analyzing this data\nAssisting interested parties in the development and execution of study protocols"
+  },
+  {
+    "objectID": "presentation.html#collaboration-with-hospital-doctors",
+    "href": "presentation.html#collaboration-with-hospital-doctors",
+    "title": "EDIHs as a tool to transfer know-how",
+    "section": "Collaboration with hospital doctors",
+    "text": "Collaboration with hospital doctors\n\n\n\n\nAim\nTo involve the hospital doctors in the analysis of their own data to answer relevant questions driven by their everyday work"
+  },
+  {
+    "objectID": "presentation.html#collaboration-with-hospital-doctors-1",
+    "href": "presentation.html#collaboration-with-hospital-doctors-1",
+    "title": "EDIHs as a tool to transfer know-how",
+    "section": "Collaboration with hospital doctors",
+    "text": "Collaboration with hospital doctors\n\n\n\nCurrently exploring the development and execution of study protocols:\n\nStudy of rhabdomyolysis patients\nStudy of pre-eclampsia patients\nStudy of stroke patients"
+  },
+  {
+    "objectID": "presentation.html#pharmaceutical-industry",
+    "href": "presentation.html#pharmaceutical-industry",
+    "title": "EDIHs as a tool to transfer know-how",
+    "section": "Pharmaceutical industry",
+    "text": "Pharmaceutical industry\n\n\n\n\nCollaboration with pharmaceutical industry to explore rare diseases\nDoctors were involved from the beginning\nCarefully planned protocol developed with the appropriate expertise\nPilot study"
   }
 ]
