@@ -4,6 +4,17 @@ project:
 
 website:
   title: "mie_2025_panel"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.html
+      - text: "Presentation"
+        href: presentation.html
+    right:
+      - icon: envelope
+        href: "mailto:arekkas@certh.gr"
+      - icon: github
+        href: "https://github.com/rekkasa"
 
 format:
   html:

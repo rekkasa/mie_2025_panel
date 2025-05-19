@@ -4,7 +4,7 @@ title: "Connecting research to enterpreneurship: The power of European Digital I
 
 ## Healthcare observational databases
 
-- They are increasingly used for the medical research and policy-making
+- They are increasingly used for medical research and policy-making
 - Partly powered by the advances in interoperability
 - OHDSI: one of the main drivers for interoperability
 
@@ -13,6 +13,8 @@ title: "Connecting research to enterpreneurship: The power of European Digital I
 - Large hospital in the northern part of Greece
 - Data on more than 1.4 million patients over the past 15 years
 - Mapped to OMOP-CDM
+  - Not an one-time process
+  - Medical, statistical and software development expertise required for the analysis of the data
 - Our main contributions are:
   - Mapping and updating the hospital's database to conform with OMOP-CDM
   - Building and executing software for analyzing this data
@@ -20,10 +22,12 @@ title: "Connecting research to enterpreneurship: The power of European Digital I
 
 ## EHDEN Mega-Study
 
-- Study aimed at leveraging data from all over Europe and N. America
+- Study was one of the final steps of a large IMI project that aimed and succeeded at mapping a large number of databases
+  including hundreds of millions of patients to OMOP-CDM
+- Study leveraged data from all over Europe and N. America
   - 52 databases in total
   - 18 countries
-- Aim: Evluate drug incidence and prevalence of drugs with suggested shortages from 2010 to 2024
+- Aim: Evluate incidence and prevalence of drugs with suggested shortages from 2010 to 2024
 - New way of analyzing real-world healthcare data
 - We are working towards keeping up with that trend
 - No other database from Greece other than PGH participated
@@ -38,21 +42,43 @@ title: "Connecting research to enterpreneurship: The power of European Digital I
 - PGH has joined the list of the DARWIN EU approved healthcare databases
 - Already received the first order for the execution of a study
 
-> **Notes**
->
-> 1. Explain how payments are made?
-
 ## OHDSI Evidence Network
 
 - Aim: Create an easily accessible pool of the databases mapped to OMOP-CDM
-- Facilitate contact between parts who want to execute a study and data sources
+- Facilitate contact between parties who want to execute a study and data sources
 - Do this in a timely manner
 - OMOP-CDM facilitates that with
   - Pre-executed diagnostics studies with descriptive statistics for each data source
-  - Extensive toolset for out-of-the-box analyses
+  - Extensive set of tools for out-of-the-box analyses
 
 ## Studies in collaboration with hospital doctors
+
+- Aim: To involve the hospital doctors in the analysis of their own data to answer relevant questions driven by their
+  everyday work
+- Characterization of rhabdomyolysis patients 
+  - Presented here
+  - More of a proof of concept / exploration of collaboration with hospital doctors
+- We are currently exploring the development and execution of several other study protocols
+  - Study of pre-eclampsia patients
+  - Study of stroke patients
 
 ## Pharamceutical industry
 
 - Collaboration with pharmaceutical industry to explore rare diseases
+- Very promising
+  - Doctors were involved from the beginning
+  - Carefully planned protocol developed with the appropriate expertise
+- Pilot study -- Hasn't happened before in Greece
+
+## Challenges
+
+- Data collection is fragmented 
+- Digitization in many cases is still in very early stages
+- National regulatory authorities do not prioritize analysis of healthcare observational data
+- Disconnect from medical practitioners
+  - Compare to NL --> located inside a hospital with direct access to practitioners/divisions
+  - Research center outside the hospital --> Need a lot of effort to communicate to the doctors even the wealth and
+    potential of their own data.
+  - Not a priority to the majority of clinical practitioners who have to deal with more pressing matters of delivering
+    clinical care in a very challenging setting
+- Pharmaceutical industry less interested in R&D in Greece using observational data
