@@ -31,6 +31,7 @@ title: "EDIHs as a tool to transfer know-how: real-world lessons learned"
 - New way of analyzing real-world healthcare data
 - We are working towards keeping up with that trend
 - No other database from Greece other than PGH participated
+- Not possible without SmartHealth as no data science team present in hospital.
 
 ## DARWIN EU
 

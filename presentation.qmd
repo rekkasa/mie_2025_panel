@@ -36,11 +36,16 @@ css: styles.css
 \
 \
 
+> **NOTE**
+>
+> No main data science team present in PGH!
+
+\
+
 Our main contributions are:
 
   - Mapping and updating the EHR to conform with OMOP-CDM
-  - Building and executing software for analyzing this data
-  - Assisting interested parties in the development and execution of study protocols
+  - Consult and supoprt the hospital in the development and execution of study protocols
   
 
 ## EHDEN Mega-Study
@@ -129,7 +134,7 @@ Currently exploring the development and execution of study protocols:
 \
 \
 
-- Collaboration with pharmaceutical industry to explore rare diseases
+- Collaboration with pharmaceutical industry
 - Doctors were involved from the beginning
 - Carefully planned protocol developed with the appropriate expertise
 - Pilot study
@@ -144,4 +149,13 @@ Currently exploring the development and execution of study protocols:
 - National regulatory authorities do not prioritize analysis of healthcare observational data
 - Disconnect from medical practitioners
 - Pharmaceutical industry less interested in R&D in Greece using observational data
+- Lack of resources
 
+
+## Added value of EDIH
+
+\
+\
+ - Increase the local e-health capacity
+ - Collaboration
+ - Funding

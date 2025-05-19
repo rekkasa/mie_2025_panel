@@ -25,7 +25,7 @@
     "href": "index.html#ehden-mega-study",
     "title": "EDIHs as a tool to transfer know-how: real-world lessons learned",
     "section": "EHDEN Mega-Study",
-    "text": "EHDEN Mega-Study\n\nStudy was one of the final steps of a large IMI project that aimed and succeeded at mapping a large number of databases including hundreds of millions of patients to OMOP-CDM\nStudy leveraged data from all over Europe and N. America\n\n52 databases in total\n18 countries\n\nAim: Evluate incidence and prevalence of drugs with suggested shortages from 2010 to 2024\nNew way of analyzing real-world healthcare data\nWe are working towards keeping up with that trend\nNo other database from Greece other than PGH participated"
+    "text": "EHDEN Mega-Study\n\nStudy was one of the final steps of a large IMI project that aimed and succeeded at mapping a large number of databases including hundreds of millions of patients to OMOP-CDM\nStudy leveraged data from all over Europe and N. America\n\n52 databases in total\n18 countries\n\nAim: Evluate incidence and prevalence of drugs with suggested shortages from 2010 to 2024\nNew way of analyzing real-world healthcare data\nWe are working towards keeping up with that trend\nNo other database from Greece other than PGH participated\nNot possible without SmartHealth as no data science team present in hospital."
   },
   {
     "objectID": "index.html#darwin-eu",
@@ -158,7 +158,7 @@
     "href": "presentation.html#challenges",
     "title": "EDIHs as a tool to transfer know-how",
     "section": "Challenges",
-    "text": "Challenges\n\n\n\n\nData collection is fragmented\nDigitization in many cases is still in very early stages\nNational regulatory authorities do not prioritize analysis of healthcare observational data\nDisconnect from medical practitioners\nPharmaceutical industry less interested in R&D in Greece using observational data"
+    "text": "Challenges\n\n\n\n\nData collection is fragmented\nDigitization in many cases is still in very early stages\nNational regulatory authorities do not prioritize analysis of healthcare observational data\nDisconnect from medical practitioners\nPharmaceutical industry less interested in R&D in Greece using observational data\nLack of resources"
   },
   {
     "objectID": "presentation.html#challenges-1",
@@ -179,7 +179,7 @@
     "href": "presentation.html#papageorgiou-general-hospital-1",
     "title": "EDIHs as a tool to transfer know-how",
     "section": "Papageorgiou General Hospital",
-    "text": "Papageorgiou General Hospital\n\n\n\nOur main contributions are:\n\nMapping and updating the EHR to conform with OMOP-CDM\nBuilding and executing software for analyzing this data\nAssisting interested parties in the development and execution of study protocols"
+    "text": "Papageorgiou General Hospital\n\n\n\n\nNOTE\nNo main data science team present in PGH!\n\n\n\nOur main contributions are:\n\nMapping and updating the EHR to conform with OMOP-CDM\nConsult and supoprt the hospital in the development and execution of study protocols"
   },
   {
     "objectID": "presentation.html#collaboration-with-hospital-doctors",
@@ -200,6 +200,13 @@
     "href": "presentation.html#pharmaceutical-industry",
     "title": "EDIHs as a tool to transfer know-how",
     "section": "Pharmaceutical industry",
-    "text": "Pharmaceutical industry\n\n\n\n\nCollaboration with pharmaceutical industry to explore rare diseases\nDoctors were involved from the beginning\nCarefully planned protocol developed with the appropriate expertise\nPilot study"
+    "text": "Pharmaceutical industry\n\n\n\n\nCollaboration with pharmaceutical industry\nDoctors were involved from the beginning\nCarefully planned protocol developed with the appropriate expertise\nPilot study"
+  },
+  {
+    "objectID": "presentation.html#added-value-of-edih",
+    "href": "presentation.html#added-value-of-edih",
+    "title": "EDIHs as a tool to transfer know-how",
+    "section": "Added value of EDIH",
+    "text": "Added value of EDIH\n\n\n- Increase the local e-health capacity - Collaboration - Funding"
   }
 ]
