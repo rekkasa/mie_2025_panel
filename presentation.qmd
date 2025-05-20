@@ -45,7 +45,7 @@ css: styles.css
 Our main contributions are:
 
   - Mapping and updating the EHR to conform with OMOP-CDM
-  - Consult and supoprt the hospital in the development and execution of study protocols
+  - Consult and support the hospital in the development and execution of study protocols
   
 
 ## EHDEN Mega-Study
@@ -156,6 +156,7 @@ Currently exploring the development and execution of study protocols:
 
 \
 \
+
  - Increase the local e-health capacity
  - Collaboration
  - Funding
